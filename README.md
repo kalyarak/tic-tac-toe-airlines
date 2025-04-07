@@ -1,4 +1,4 @@
-# tic-tac-toe-airlines
+# Tic-Tac-Toe-Airlines
 A game on a website that enhances knowledge and thinking skills by combining the rewards obtained from winning various levels to unlock interesting facts about different countries in each level.
 - This project was built using HTML, CSS, and JavaScript, with Bootstrap for responsive styling and Firebase to host the live version.
 
